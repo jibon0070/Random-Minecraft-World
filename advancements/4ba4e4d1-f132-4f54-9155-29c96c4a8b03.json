@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-05-08 00:07:13 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-03-18 14:22:21 +0600"
@@ -506,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-05-08 00:07:13 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-03-19 02:02:14 +0600"
@@ -514,6 +526,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2022-05-08 00:11:19 +0600",
       "minecraft:chicken": "2022-03-18 14:56:50 +0600"
     },
     "done": false
@@ -650,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-05-08 00:13:10 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-03-18 14:10:14 +0600"
@@ -713,6 +732,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-03-19 02:02:14 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-05-08 00:14:48 +0600"
     },
     "done": true
   },
@@ -852,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-05-08 02:34:32 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-03-18 14:22:21 +0600"
@@ -873,6 +904,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-03-18 14:10:26 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-05-08 00:06:34 +0600"
     },
     "done": true
   },
@@ -1224,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-05-08 00:07:13 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-03-19 04:03:56 +0600"
@@ -1380,6 +1423,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-05-08 00:14:48 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2022-03-20 07:00:47 +0600"
@@ -1464,10 +1513,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2022-05-08 00:06:34 +0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2022-03-19 05:29:48 +0600",
       "minecraft:river": "2022-03-20 08:24:26 +0600",
+      "minecraft:forest": "2022-05-08 00:02:51 +0600",
       "minecraft:plains": "2022-03-18 14:03:55 +0600"
     },
     "done": false
@@ -1673,6 +1729,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-03-18 14:35:46 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2022-05-08 00:06:34 +0600"
     },
     "done": true
   },
